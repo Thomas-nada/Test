@@ -1,0 +1,54 @@
+[
+  {
+    "memberId": "Kari Svendsen",
+    "declarationDate": "2025-02-10",
+    "lastUpdatedDate": "2025-03-01",
+    "conflictDescription": "My brother, Lars Svendsen, is the CEO of 'EcoBuild AS', a construction company that has submitted a tender for the new Tingvard community center project. I am on the project oversight committee.",
+    "interestType": "Familial Relationship",
+    "involvedParties": [
+      {
+        "name": "Lars Svendsen",
+        "relationship": "Brother"
+      },
+      {
+        "name": "EcoBuild AS",
+        "relationship": "Brother's Company"
+      }
+    ],
+    "mitigationMeasures": "I have formally declared this conflict to the committee chair and will recuse myself from all discussions, evaluations, and voting related to tenders for the community center project. My recusal has been minuted.",
+    "status": "Active",
+    "notes": "Updated on 2025-03-01 to confirm recusal process is active."
+  },
+  {
+    "memberId": "Bjørn Hansen",
+    "declarationDate": "2025-04-22",
+    "lastUpdatedDate": "2025-04-22",
+    "conflictDescription": "I am a part-time consultant for 'Halden Digital Solutions', which is being considered by Tingvard for a website redesign contract. My consultancy involves advising on user experience, which is relevant to the contract.",
+    "interestType": "Professional Affiliation",
+    "involvedParties": [
+      {
+        "name": "Halden Digital Solutions",
+        "relationship": "Consultancy Client (Part-Time)"
+      }
+    ],
+    "mitigationMeasures": "I have informed the Tingvard procurement team of my consultancy role. I will not participate in the selection panel for the website redesign contract or contribute to the technical specifications that might favor Halden Digital Solutions.",
+    "status": "Active",
+    "notes": "Consultancy is ad-hoc, approximately 5 hours per month."
+  },
+  {
+    "memberId": "Astrid Johansen",
+    "declarationDate": "2025-05-15",
+    "lastUpdatedDate": "2025-05-15",
+    "conflictDescription": "I recently received a gift basket with an estimated value of 1500 NOK from 'Fjord Tours AS' after attending an industry event. Tingvard is currently reviewing proposals for local tourism partnerships, and Fjord Tours AS is a potential applicant.",
+    "interestType": "Gift/Hospitality",
+    "involvedParties": [
+      {
+        "name": "Fjord Tours AS",
+        "relationship": "Potential Applicant / Gift Provider"
+      }
+    ],
+    "mitigationMeasures": "I have reported the gift to the Tingvard ethics officer and will disclose its receipt if Fjord Tours AS submits a proposal. I will not be involved in the initial screening of tourism partnership proposals to avoid any perception of bias.",
+    "status": "Potential",
+    "notes": "The gift was unsolicited and received at a public event."
+  }
+]
